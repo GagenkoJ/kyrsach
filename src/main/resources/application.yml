@@ -1,0 +1,8 @@
+
+
+keycloak:
+  auth-server-url: http://localhost:8080
+  realm: record_app
+  resource: company-app
+  credentials:
+    secret: <tEGuWG6UQMLcYTBT1VNM4K52myjbSqb3>
